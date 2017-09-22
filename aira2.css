@@ -150,11 +150,7 @@ width: auto;
   -webkit-text-fill-color: transparent;
   background-image: linear-gradient(to bottom, #47b3e8, #3fb7b9);
     }
-.img-responsive{
-    //margin-top: 106px;
-    position: relative;
-    left: -15px;
-}
+
 .myslides{
     display:none;
 }
